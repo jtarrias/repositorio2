@@ -22,7 +22,7 @@ public class operararrays {
 		System.out.println("El resultado de la suma es " + j);
 	}
 
-	public static void main(String[] args) {
+	public static void main (String[] args) {
 		int array[] = new int[10];
 		rellenaArrays(array);
 		imprimeArray(array);
