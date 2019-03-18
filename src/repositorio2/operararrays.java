@@ -13,3 +13,6 @@ public class operararrays {
 		rellenaArrays(array);
 	}
 }
+
+
+//dnidfiefef
